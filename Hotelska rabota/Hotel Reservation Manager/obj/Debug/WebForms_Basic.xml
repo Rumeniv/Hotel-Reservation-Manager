@@ -1,0 +1,1238 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hotel Reservation Manager
+</name>
+</assembly>
+<members>
+<member name="T:Hotel_Reservation_Manager.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Hotel_Reservation_Manager.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:Hotel_Reservation_Manager.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:Hotel_Reservation_Manager.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:Hotel_Reservation_Manager.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:Hotel_Reservation_Manager.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._SDS_ROOM_Availa">
+<summary>
+SDS_ROOM_Availa control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._Panel1">
+<summary>
+Panel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._LB_Search">
+<summary>
+LB_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._DD_Search">
+<summary>
+DD_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._LB_Search2">
+<summary>
+LB_Search2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._TB_Search">
+<summary>
+TB_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._BT_Search">
+<summary>
+BT_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._BT_All">
+<summary>
+BT_All control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._BT_Navigi">
+<summary>
+BT_Navigi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._dd_rOOM_aVAILABLE">
+<summary>
+dd_rOOM_aVAILABLE control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._TB_Client2">
+<summary>
+TB_Client2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._TB_Client3">
+<summary>
+TB_Client3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._TB_DateOfReservation">
+<summary>
+TB_DateOfReservation control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._TB_DateOfLeaving">
+<summary>
+TB_DateOfLeaving control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._CB_Breakfast">
+<summary>
+CB_Breakfast control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._TCB_AllInclusive">
+<summary>
+TCB_AllInclusive control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._BT_Insert">
+<summary>
+BT_Insert control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._BT_Users">
+<summary>
+BT_Users control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Reservation._BT_ROOMS">
+<summary>
+BT_ROOMS control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._Transact_Bad_Subscriber_Comp">
+<summary>
+Transact_Bad_Subscriber_Comp control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._Panel_Company1">
+<summary>
+Panel_Company1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LB_CompDetails1">
+<summary>
+LB_CompDetails1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._TB_Search">
+<summary>
+TB_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._BT_Search1">
+<summary>
+BT_Search1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LB_Company1">
+<summary>
+LB_Company1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._TB_CompanyName1">
+<summary>
+TB_CompanyName1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LB_VID1">
+<summary>
+LB_VID1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LB_Bulstat1">
+<summary>
+LB_Bulstat1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._TB_Bulstat1">
+<summary>
+TB_Bulstat1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LB_MOL_Phone1">
+<summary>
+LB_MOL_Phone1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._TB_MOL_Phone1">
+<summary>
+TB_MOL_Phone1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LB_VAT_NUM1">
+<summary>
+LB_VAT_NUM1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._TB_VAT_NUM1">
+<summary>
+TB_VAT_NUM1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LB_MOL_Names1">
+<summary>
+LB_MOL_Names1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._TB_MOL_Names1">
+<summary>
+TB_MOL_Names1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LB_MOL_PID1">
+<summary>
+LB_MOL_PID1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._TB_MOL_PID1">
+<summary>
+TB_MOL_PID1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LM_MOL_Email1">
+<summary>
+LM_MOL_Email1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._TB_MOL_MAIL1">
+<summary>
+TB_MOL_MAIL1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LB_Court_reg_City1">
+<summary>
+LB_Court_reg_City1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._TB_Court_reg_City1">
+<summary>
+TB_Court_reg_City1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LB_Segment1">
+<summary>
+LB_Segment1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LB_court_Reg_num1">
+<summary>
+LB_court_Reg_num1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._TB_Court_reg_num1">
+<summary>
+TB_Court_reg_num1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LB_Important">
+<summary>
+LB_Important control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._TB_Important1">
+<summary>
+TB_Important1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._LB_Ciela_Company1">
+<summary>
+LB_Ciela_Company1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager._Default._TB_Ciela_Company1">
+<summary>
+TB_Ciela_Company1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Log_In._SDS_Log_In">
+<summary>
+SDS_Log_In control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Log_In._Panel1">
+<summary>
+Panel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Log_In._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Log_In._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Log_In._TB_User">
+<summary>
+TB_User control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Log_In._Label4">
+<summary>
+Label4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Log_In._TB_Password">
+<summary>
+TB_Password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Log_In._BT_Login">
+<summary>
+BT_Login control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._SdS_All_CLIENTS_Grid">
+<summary>
+SdS_All_CLIENTS_Grid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._SDS_Search_With_Param">
+<summary>
+SDS_Search_With_Param control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._Panel1">
+<summary>
+Panel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._LB_Search">
+<summary>
+LB_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._DD_Search">
+<summary>
+DD_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._LB_Search2">
+<summary>
+LB_Search2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._TB_Search">
+<summary>
+TB_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._BT_Search">
+<summary>
+BT_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._BT_All">
+<summary>
+BT_All control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._BT_Navigi">
+<summary>
+BT_Navigi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._TB_First_Name">
+<summary>
+TB_First_Name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._TB_Family_Name">
+<summary>
+TB_Family_Name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._TB_Telephone_Number">
+<summary>
+TB_Telephone_Number control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._TB_Email_Address">
+<summary>
+TB_Email_Address control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._TB_Adult">
+<summary>
+TB_Adult control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._BT_Insert">
+<summary>
+BT_Insert control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._GV_CLIETNS">
+<summary>
+GV_CLIETNS control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._BT_Users">
+<summary>
+BT_Users control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._BT_ROOMS">
+<summary>
+BT_ROOMS control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Clients._BT_Reservation">
+<summary>
+BT_Reservation control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._SdS_All_ROOMS_Grid">
+<summary>
+SdS_All_ROOMS_Grid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._SDS_Search_With_Param">
+<summary>
+SDS_Search_With_Param control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._Panel1">
+<summary>
+Panel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._LB_Search">
+<summary>
+LB_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._DD_Search">
+<summary>
+DD_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._LB_Search2">
+<summary>
+LB_Search2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._TB_Search">
+<summary>
+TB_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._BT_Search">
+<summary>
+BT_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._BT_All">
+<summary>
+BT_All control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._BT_Navigi">
+<summary>
+BT_Navigi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._TB_Room_Number">
+<summary>
+TB_Room_Number control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._TB_Capacity">
+<summary>
+TB_Capacity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._TB_Type">
+<summary>
+TB_Type control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._TB_Adult_Price">
+<summary>
+TB_Adult_Price control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._TB_Child_Price">
+<summary>
+TB_Child_Price control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._BT_Insert">
+<summary>
+BT_Insert control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._GV_ROOMS">
+<summary>
+GV_ROOMS control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._BT_Users">
+<summary>
+BT_Users control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._BT_Clients">
+<summary>
+BT_Clients control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.ROOMS._BT_Reservation">
+<summary>
+BT_Reservation control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.SiteMaster._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.SiteMaster._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._SdS_All_Users_Grid">
+<summary>
+SdS_All_Users_Grid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._SDS_Search_With_Param">
+<summary>
+SDS_Search_With_Param control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._Panel1">
+<summary>
+Panel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._LB_Search">
+<summary>
+LB_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._DD_Search">
+<summary>
+DD_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._LB_Search2">
+<summary>
+LB_Search2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._TB_Search">
+<summary>
+TB_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._BT_Search">
+<summary>
+BT_Search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._BT_All">
+<summary>
+BT_All control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._BT_Navigi">
+<summary>
+BT_Navigi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._TB_UserName">
+<summary>
+TB_UserName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._TB_Password">
+<summary>
+TB_Password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._TB_First_name">
+<summary>
+TB_First_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._TB_Middle_Name">
+<summary>
+TB_Middle_Name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._TB_Family_name">
+<summary>
+TB_Family_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._TB_PID">
+<summary>
+TB_PID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._TB_Telephone_Number">
+<summary>
+TB_Telephone_Number control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._TB_E_mail_Address">
+<summary>
+TB_E_mail_Address control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._TB_User_Role">
+<summary>
+TB_User_Role control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._BT_Insert">
+<summary>
+BT_Insert control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._GV_Users">
+<summary>
+GV_Users control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._BT_Clients">
+<summary>
+BT_Clients control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._BT_ROOMS">
+<summary>
+BT_ROOMS control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Users_Manager._BT_Reservation">
+<summary>
+BT_Reservation control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Site_Mobile._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Site_Mobile._HeadContent">
+<summary>
+HeadContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Site_Mobile._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Site_Mobile._FeaturedContent">
+<summary>
+FeaturedContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Site_Mobile._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Hotel_Reservation_Manager.Site_Mobile._ViewSwitcher1">
+<summary>
+ViewSwitcher1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

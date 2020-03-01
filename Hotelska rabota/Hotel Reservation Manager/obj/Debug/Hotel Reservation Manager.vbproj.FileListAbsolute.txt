@@ -1,0 +1,150 @@
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Hotel Reservation Manager.dll.config
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Hotel Reservation Manager.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Hotel Reservation Manager.pdb
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\WebForms_Basic.xml
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\csc.exe
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\csc.exe.config
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\csc.rsp
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\csi.exe
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\csi.exe.config
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\csi.rsp
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.AppContext.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Console.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.IO.Compression.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.IO.FileSystem.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.IO.Pipes.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.AccessControl.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.Claims.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.ValueTuple.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Xml.XPath.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\vbc.exe
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\vbc.exe.config
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\vbc.rsp
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\VBCSCompiler.exe
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Antlr3.Runtime.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\AspNet.ScriptManager.bootstrap.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\AspNet.ScriptManager.jQuery.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.ScriptManager.WebForms.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Newtonsoft.Json.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\System.Web.Optimization.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\WebGrease.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\System.Web.Optimization.xml
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Newtonsoft.Json.xml
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Antlr3.Runtime.pdb
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel Reservation Manager.vbprojAssemblyReference.cache
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel_Reservation_Manager.Resources.resources
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel Reservation Manager.vbproj.GenerateResource.cache
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel Reservation Manager.vbproj.CoreCompileInputs.cache
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel Reservation Manager.vbproj.CopyComplete
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel Reservation Manager.dll
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\obj\Debug\WebForms_Basic.xml
+D:\PROJECTS\Projects\WEB\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel Reservation Manager.pdb
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Hotel Reservation Manager.dll.config
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Hotel Reservation Manager.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Hotel Reservation Manager.pdb
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\WebForms_Basic.xml
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\csc.exe
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\csc.exe.config
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\csc.rsp
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\csi.exe
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\csi.exe.config
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\csi.rsp
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.AppContext.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Console.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.IO.Compression.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.Claims.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.ValueTuple.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\vbc.exe
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\vbc.exe.config
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\vbc.rsp
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\VBCSCompiler.exe
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Antlr3.Runtime.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Newtonsoft.Json.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\System.Web.Optimization.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\WebGrease.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\System.Web.Optimization.xml
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Newtonsoft.Json.xml
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Antlr3.Runtime.pdb
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel Reservation Manager.vbprojAssemblyReference.cache
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel_Reservation_Manager.Resources.resources
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel Reservation Manager.vbproj.GenerateResource.cache
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel Reservation Manager.vbproj.CoreCompileInputs.cache
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel Reservation Manager.vbproj.CopyComplete
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel Reservation Manager.dll
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\obj\Debug\WebForms_Basic.xml
+C:\Users\rkiva\Desktop\Hotelska rabota\Hotel Reservation Manager\obj\Debug\Hotel Reservation Manager.pdb

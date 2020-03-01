@@ -1,0 +1,172 @@
+﻿
+
+
+#scrollingdiv {
+    overflow-y: auto;
+    height: 100%;
+    width: 100%;
+    background-color: #eaaa00;
+}
+.panel.panel-default > .panel-heading {
+    /*background-color: #9f3437 !important;*/
+    background: #FF8008; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #eaaa00, #FF8008); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #eaaa00, #FF8008); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+   
+    
+}
+.headerLabel {
+    color: black;
+    font-weight:900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.panel-footer {
+    background-color: whitesmoke !important;
+    font-style: italic !important;
+}
+ 
+.panel-default {
+    background-color:whitesmoke !important;
+}
+
+
+
+
+ICAP_Panel {
+    background-color: #9f3437 !important;
+    border: 1px solid !important;
+    border-color: #9f3437 !important;
+    border-radius: 5px !important;
+}
+
+/*content {
+    margin-right:10px;
+}*/
+
+.col-sm-1,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12{
+    /*border-left:5px!important;*/
+}
+
+.divider{
+    padding-right:10px;
+    height:auto;
+    display:inline-block;
+}
+table.DG_in_Panel {
+    text-align: center !important;
+
+}
+table.DG_in_Panel > thead > tr > th  {
+    border: 1px solid black !important;
+    font-size: small !important;
+}
+    table.DG_in_Panel > tbody > tr > th {
+        border: 1px solid black !important;
+        text-align: center !important;
+        font-size: small !important;
+        background: linear-gradient(to top, #eaaa00, #FF8008);
+    }
+
+    table.DG_in_Panel > tbody > tr > td {
+        border: 1px solid #428bca !important;
+        font-size: small !important;
+    }
+
+    table.DG_in_Panel > tbody > tr > th:first-child {
+        /*border-top: none !important;
+        border-left: none !important;*/
+        font-size: small !important;
+        background: linear-gradient(to top, #eaaa00, #FF8008);
+    }
+
+    table.DG_in_Panel > tbody > tr > td > input[type="text"] {
+        width: 200px !important;
+        font-size: small !important;
+        
+    }
+
+table.aspNetDisabled {
+    border: 1px solid #507CD1 !important;
+    font-size: small !important;
+    text-align: center !important;
+    margin-top: 5px;
+   
+}
+
+    table.aspNetDisabled > tbody > tr > th:first-child {
+        /*border-top: 2px !important;
+    border-left: 2px !important;*/
+        font-size: small !important;
+        background: linear-gradient(to top, #eaaa00, #FF8008);
+    }
+
+    table.aspNetDisabled > tbody > tr > th {
+        border: 1px solid #507CD1 !important;
+        font-size: small! important;
+    text-align: center !important;
+    background: linear-gradient(to top, #eaaa00, #FF8008);
+    }
+
+    table.aspNetDisabled > tbody > tr > td {
+        border: 1px solid #507CD1;
+        font-size: small !important;
+    }
+
+/*добавени стилове за да махна последната колона*/
+        table.aspNetDisabled > tbody > tr > td:last-child {
+            border: 0px solid #507CD1 !important;
+            font-size: small !important;
+            /*background-color: whitesmoke;*/
+        
+        width: 0px;
+        border-bottom-color: whitesmoke !important;
+        }
+
+    table.aspNetDisabled > tbody > tr > th:last-child {
+        /*-------------------------------------------------------------------------------Editnato ot men-Velik*/
+        border: 1px solid #507CD1 !important;
+        font-size: small! important;
+    text-align: center !important; 
+     background-color:whitesmoke !important;
+    }
+
+    table.aspNetDisabled1 > tbody > tr > td:last-child {
+        display:none;
+        /*Създадох тези класове за да крия последната колона на грида с инфо в Dashboard*/
+    }
+
+table.aspNetDisabled1 > tbody > tr > th:last-child {
+    display: none;
+    /*Създадох тези класове за да крия последната колона на грида с инфо w Dashboard*/
+}
+
+table.aspNetDisabled1 > tbody > tr > th {
+    border: 1px solid black !important;
+    font-size: small !important;
+    text-align: center !important;
+}
+
+table.aspNetDisabled1 > tbody > tr > td {
+    border: 1px solid black;
+    font-size: small !important;
+}
+
+scrollingDiv {
+    z-index:870;
+}
+
+.panel {
+    margin-bottom: 0px;
+}
